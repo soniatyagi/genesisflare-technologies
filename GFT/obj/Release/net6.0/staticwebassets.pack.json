@@ -1,0 +1,889 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\GFT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GFT.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\css\\custom-animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\odometer-theme-default.css",
+      "PackagePath": "staticwebassets\\css\\odometer-theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\map.png",
+      "PackagePath": "staticwebassets\\images\\background\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-11.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-11.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-38.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-38.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-39.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-39.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-40.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-41.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-41.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-42.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-43.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-44.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-45.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-46.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-46.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\background\\pattern-47.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-47.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\clients\\15.png",
+      "PackagePath": "staticwebassets\\images\\clients\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\clients\\16.png",
+      "PackagePath": "staticwebassets\\images\\clients\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\clients\\17.png",
+      "PackagePath": "staticwebassets\\images\\clients\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\clients\\18.png",
+      "PackagePath": "staticwebassets\\images\\clients\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\cross-out.png",
+      "PackagePath": "staticwebassets\\images\\cross-out.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\footer-gallery-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\footer-gallery-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\footer-gallery-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\footer-gallery-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\footer-gallery-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\footer-gallery-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\footer-gallery-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\footer-gallery-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\footer-gallery-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\footer-gallery-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\gallery\\project-9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\project-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\about-dots.png",
+      "PackagePath": "staticwebassets\\images\\icons\\about-dots.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\award.png",
+      "PackagePath": "staticwebassets\\images\\icons\\award.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\feature-6.png",
+      "PackagePath": "staticwebassets\\images\\icons\\feature-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\feature-7.png",
+      "PackagePath": "staticwebassets\\images\\icons\\feature-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\fluid-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\fluid-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\fluid-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\fluid-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\preloader.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\preloader.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\quote.png",
+      "PackagePath": "staticwebassets\\images\\icons\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\separator-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\separator-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\separator.png",
+      "PackagePath": "staticwebassets\\images\\icons\\separator.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-18.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-18.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-19.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-19.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-20.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-21.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-21.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-22.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-23.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-24.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\service-24.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-25.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\service-25.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-26.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\service-26.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-27.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\service-27.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-28.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\service-28.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-29.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\service-29.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-30.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\service-30.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-31.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-31.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-32.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-33.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-34.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-35.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-36.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-36.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-37.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-37.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-4.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-5.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-6.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\icons\\service-7.png",
+      "PackagePath": "staticwebassets\\images\\icons\\service-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\main-slider\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\main-slider\\curve.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\curve.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\about-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-1 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-1 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-6.png",
+      "PackagePath": "staticwebassets\\images\\resource\\author-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-7.png",
+      "PackagePath": "staticwebassets\\images\\resource\\author-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-8.png",
+      "PackagePath": "staticwebassets\\images\\resource\\author-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\author-9.png",
+      "PackagePath": "staticwebassets\\images\\resource\\author-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\company-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\company-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\error.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\error.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\fluid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\fluid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\fluid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\fluid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\fluid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\fluid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\mompic.jpeg",
+      "PackagePath": "staticwebassets\\images\\resource\\mompic.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\mypic.png",
+      "PackagePath": "staticwebassets\\images\\resource\\mypic.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\news-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\post-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\post-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\process-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\process-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\process-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\process-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\process-3.png",
+      "PackagePath": "staticwebassets\\images\\resource\\process-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\process-4.png",
+      "PackagePath": "staticwebassets\\images\\resource\\process-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\project.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\project.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\service-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\service-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\soniapic.jpeg",
+      "PackagePath": "staticwebassets\\images\\resource\\soniapic.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\testimonial-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\testimonial-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\images\\resource\\testimonial-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\testimonial-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\appear.js",
+      "PackagePath": "staticwebassets\\js\\appear.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\mixitup.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\nav-tool.js",
+      "PackagePath": "staticwebassets\\js\\nav-tool.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\odometer.js",
+      "PackagePath": "staticwebassets\\js\\odometer.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\owl.js",
+      "PackagePath": "staticwebassets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\parallax-scroll.js",
+      "PackagePath": "staticwebassets\\js\\parallax-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sonia Tyagi\\Desktop\\C#\\GFT\\GFT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.GFT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.GFT.props",
+      "PackagePath": "build\\GFT.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GFT.props",
+      "PackagePath": "buildMultiTargeting\\GFT.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.GFT.props",
+      "PackagePath": "buildTransitive\\GFT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
